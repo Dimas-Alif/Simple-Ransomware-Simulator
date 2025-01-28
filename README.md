@@ -32,8 +32,8 @@ Ini adalah simulasi ransomware dengan antarmuka grafis (GUI) yang dibuat untuk t
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/username/Ransomware-Simulator.git
-cd Ransomware-Simulator
+git clone https://github.com/Dimas-Alif/Simple-Ransomware-Simulator.git
+cd Simple-Ransomware-Simulator
 ```
 
 2. Persiapkan lingkungan:
