@@ -1,0 +1,8 @@
+[INFO] Target drive ditemukan: 3
+[DUMMY] File: C:\Users\ExampleUser\Documents\sample.txt tidak diubah (mode dummy aktif).
+[ENKRIPSI] File: C:\Users\ExampleUser\Documents\example1.txt berhasil terenkripsi.
+[ENKRIPSI] File: C:\Users\ExampleUser\Documents\example2.txt berhasil terenkripsi.
+[ERROR] Tidak dapat membuka file: C:\Users\ExampleUser\Documents\example3.txt.
+[PROPAGASI] File disalin ke: F:\
+[PROPAGASI] File disalin ke: G:\
+[INFO] Proses enkripsi selesai. Total file terenkripsi: 2.
